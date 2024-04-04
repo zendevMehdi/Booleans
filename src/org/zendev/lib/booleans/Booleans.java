@@ -2,11 +2,11 @@ package org.zendev.lib.booleans;
 
 public class Booleans {
 
-    public int booleanToNumber(boolean flag) {
+    public static int booleanToNumber(boolean flag) {
         return flag ? 1 : 0;
     }
 
-    public int[] booleansToNumbers(boolean... array) {
+    public static int[] booleansToNumbers(boolean... array) {
         int[] numbers = new int[array.length];
 
         for (int i = 0; i < array.length; i++) {
