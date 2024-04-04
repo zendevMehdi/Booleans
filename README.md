@@ -1,6 +1,6 @@
 # Booleans
 
-This library helps to manage different paths of files or folders and normalize them easily, it supports both MS-Windows and UNIX operating systems.
+Few simple tools to work with Boolean data type and convert them.
 
 ## Authors
 
