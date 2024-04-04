@@ -21,9 +21,7 @@ You can get jar from release section or create new project and add src folder to
 Convert boolean to integer.
 
 ```java
-package org.zendev.lib.path;
-
-import java.io.File;
+package org.zendev.lib.booleans;
 
 public class App {
     public static void main(String[] args) {
